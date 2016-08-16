@@ -8,18 +8,24 @@
   <UL>
   <LI><OBJECT type="text/sitemap"><param name="Name" value="File List"><param name="Local" value="files.html"><param name="ImageNumber" value="1"></OBJECT>
     <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="client"><param name="Local" value="dir_db3a54907829b36871118d03417739cd.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="client_base._pike"><param name="Local" value="client_2client__base_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
     <LI><OBJECT type="text/sitemap"><param name="Name" value="server"><param name="Local" value="dir_41e1742e44e2de38b3bc91f993fed282.html"><param name="ImageNumber" value="1"></OBJECT>
       <UL>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="base"><param name="Local" value="dir_c6f22c46e3aeeb0ef918bd874ad04d03.html"><param name="ImageNumber" value="1"></OBJECT>
         <UL>
         <LI><OBJECT type="text/sitemap"><param name="Name" value="access._pike"><param name="Local" value="access_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
         <LI><OBJECT type="text/sitemap"><param name="Name" value="annotateable._pike"><param name="Local" value="annotateable_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
-        <LI><OBJECT type="text/sitemap"><param name="Name" value="client_base._pike"><param name="Local" value="client__base_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="client_base._pike"><param name="Local" value="server_2base_2client__base_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
         <LI><OBJECT type="text/sitemap"><param name="Name" value="content._pike"><param name="Local" value="content_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="decorateable._pike"><param name="Local" value="decorateable_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
         <LI><OBJECT type="text/sitemap"><param name="Name" value="events._pike"><param name="Local" value="events_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
         <LI><OBJECT type="text/sitemap"><param name="Name" value="member._pike"><param name="Local" value="member_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
         <LI><OBJECT type="text/sitemap"><param name="Name" value="references._pike"><param name="Local" value="references_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
         <LI><OBJECT type="text/sitemap"><param name="Name" value="serialize._pike"><param name="Local" value="serialize_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="webservice._pike"><param name="Local" value="base_2webservice_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
         <LI><OBJECT type="text/sitemap"><param name="Name" value="xml_data._pike"><param name="Local" value="xml__data_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
         <LI><OBJECT type="text/sitemap"><param name="Name" value="xml_parser._pike"><param name="Local" value="xml__parser_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
         </UL>
@@ -31,6 +37,8 @@
         <LI><OBJECT type="text/sitemap"><param name="Name" value="DocExtern._pike"><param name="Local" value="DocExtern_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
         <LI><OBJECT type="text/sitemap"><param name="Name" value="DocHTML._pike"><param name="Local" value="DocHTML_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
         <LI><OBJECT type="text/sitemap"><param name="Name" value="DocLpc._pike"><param name="Local" value="DocLpc_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="DocMP3._pike"><param name="Local" value="DocMP3_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="DocText._pike"><param name="Local" value="DocText_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
         <LI><OBJECT type="text/sitemap"><param name="Name" value="Document._pike"><param name="Local" value="Document_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
         <LI><OBJECT type="text/sitemap"><param name="Name" value="DocXML._pike"><param name="Local" value="DocXML_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
         <LI><OBJECT type="text/sitemap"><param name="Name" value="DocXSL._pike"><param name="Local" value="DocXSL_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
@@ -44,9 +52,17 @@
         <LI><OBJECT type="text/sitemap"><param name="Name" value="Script._pike"><param name="Local" value="Script_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
         <LI><OBJECT type="text/sitemap"><param name="Name" value="TrashBin._pike"><param name="Local" value="TrashBin_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
         <LI><OBJECT type="text/sitemap"><param name="Name" value="User._pike"><param name="Local" value="User_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Webservice._pike"><param name="Local" value="classes_2webservice_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="dbadaptors"><param name="Local" value="dir_90cd9005d621ae8b2a41d40f33f29152.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="handle._pike"><param name="Local" value="handle_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="mysql._pike"><param name="Local" value="mysql_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="postgres.pike"><param name="Local" value="postgres_8pike.html"><param name="ImageNumber" value="11"></OBJECT>
         </UL>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="factories"><param name="Local" value="dir_83b03a32b230de8bbd8677a2141f890f.html"><param name="ImageNumber" value="1"></OBJECT>
         <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="CalendarFactory._pike"><param name="Local" value="CalendarFactory_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
         <LI><OBJECT type="text/sitemap"><param name="Name" value="ContainerFactory._pike"><param name="Local" value="ContainerFactory_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
         <LI><OBJECT type="text/sitemap"><param name="Name" value="DateFactory._pike"><param name="Local" value="DateFactory_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
         <LI><OBJECT type="text/sitemap"><param name="Name" value="DocExternFactory._pike"><param name="Local" value="DocExternFactory_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
@@ -760,6 +776,7 @@
         </UL>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="libraries"><param name="Local" value="dir_40ad0931a3f1454e364121985b68ff4a.html"><param name="ImageNumber" value="1"></OBJECT>
         <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Attributes._pmod"><param name="Local" value="Attributes_8__pmod.html"><param name="ImageNumber" value="11"></OBJECT>
         <LI><OBJECT type="text/sitemap"><param name="Name" value="Events._pmod"><param name="Local" value="Events_8__pmod.html"><param name="ImageNumber" value="11"></OBJECT>
         <LI><OBJECT type="text/sitemap"><param name="Name" value="htmllib._pmod"><param name="Local" value="htmllib_8__pmod.html"><param name="ImageNumber" value="11"></OBJECT>
         <LI><OBJECT type="text/sitemap"><param name="Name" value="httplib._pmod"><param name="Local" value="httplib_8__pmod.html"><param name="ImageNumber" value="11"></OBJECT>
@@ -789,7 +806,7 @@
         <LI><OBJECT type="text/sitemap"><param name="Name" value="searching._pike"><param name="Local" value="searching_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
         <LI><OBJECT type="text/sitemap"><param name="Name" value="security._pike"><param name="Local" value="security_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
         <LI><OBJECT type="text/sitemap"><param name="Name" value="security_cache._pike"><param name="Local" value="security__cache_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
-        <LI><OBJECT type="text/sitemap"><param name="Name" value="smtp._pike"><param name="Local" value="modules_2smtp_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="smtp._pike"><param name="Local" value="server_2modules_2smtp_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
         <LI><OBJECT type="text/sitemap"><param name="Name" value="tar._pike"><param name="Local" value="tar_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
         <LI><OBJECT type="text/sitemap"><param name="Name" value="tasks._pike"><param name="Local" value="tasks_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
         <LI><OBJECT type="text/sitemap"><param name="Name" value="temp_objects._pike"><param name="Local" value="temp__objects_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
@@ -812,12 +829,48 @@
         <LI><OBJECT type="text/sitemap"><param name="Name" value="jabber._pike"><param name="Local" value="jabber_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
         <LI><OBJECT type="text/sitemap"><param name="Name" value="nntp._pike"><param name="Local" value="net_2nntp_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
         <LI><OBJECT type="text/sitemap"><param name="Name" value="pop3._pike"><param name="Local" value="pop3_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
-        <LI><OBJECT type="text/sitemap"><param name="Name" value="smtp._pike"><param name="Local" value="net_2smtp_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="smtp._pike"><param name="Local" value="server_2net_2smtp_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
         <LI><OBJECT type="text/sitemap"><param name="Name" value="telnet._pike"><param name="Local" value="telnet_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
-        <LI><OBJECT type="text/sitemap"><param name="Name" value="webdav._pike"><param name="Local" value="webdav_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="webdav.pike"><param name="Local" value="webdav_8pike.html"><param name="ImageNumber" value="11"></OBJECT>
         </UL>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="database._pike"><param name="Local" value="database_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Persistence._pike"><param name="Local" value="Persistence_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="server._pike"><param name="Local" value="server_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="services"><param name="Local" value="dir_056ec8f0377ddc4293192cbc6b19c99c.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="fulltext._pike"><param name="Local" value="fulltext_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="graphic._pike"><param name="Local" value="graphic_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="search._pike"><param name="Local" value="search_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="smtp._pike"><param name="Local" value="services_2smtp_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="spm._pike"><param name="Local" value="spm_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="tex._pike"><param name="Local" value="tex_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="torrent._pike"><param name="Local" value="torrent_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="spm"><param name="Local" value="dir_8d02a4a14dc598e4f3d7f78c43f1755d.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="client_base._pike"><param name="Local" value="spm_2client__base_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="connection._pike"><param name="Local" value="connection_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="test._pike"><param name="Local" value="test_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="tools"><param name="Local" value="dir_4eeb864c4eec08c7d6b9d3b0352cfdde.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="applauncher._pike"><param name="Local" value="applauncher_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="check_database._pike"><param name="Local" value="check__database_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="checkout._pike"><param name="Local" value="checkout_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="checkout_web._pike"><param name="Local" value="checkout__web_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="client._pike"><param name="Local" value="client_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="dbContentReader._pike"><param name="Local" value="dbContentReader_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="edit._pike"><param name="Local" value="edit_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="export-to-git._pike"><param name="Local" value="export-to-git_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="export._pike"><param name="Local" value="export_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="gtklogin._pike"><param name="Local" value="gtklogin_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="import-from-git._pike"><param name="Local" value="import-from-git_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="import._pike"><param name="Local" value="import_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="new_database._pike"><param name="Local" value="new__database_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="steam-shell._pike"><param name="Local" value="steam-shell_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="tab_completion.pmod"><param name="Local" value="tab__completion_8pmod.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="upd-source._pike"><param name="Local" value="upd-source_8__pike.html"><param name="ImageNumber" value="11"></OBJECT>
       </UL>
     </UL>
   <LI><OBJECT type="text/sitemap"><param name="Name" value="File Members"><param name="Local" value="globals.html"><param name="ImageNumber" value="11"></OBJECT>
