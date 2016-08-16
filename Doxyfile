@@ -3,7 +3,7 @@
 #---------------------------------------------------------------------------
 # General configuration options
 #---------------------------------------------------------------------------
-PROJECT_NAME           = societyserver
+PROJECT_NAME           = Societyserver
 PROJECT_NUMBER         = 3.0.0
 OUTPUT_DIRECTORY       = docs
 OUTPUT_LANGUAGE        = English
@@ -53,8 +53,6 @@ WARN_LOGFILE           =
 # configuration options related to the input files
 #---------------------------------------------------------------------------
 INPUT	               = client/client_base._pike \
-						 clinet/Input._pmod \
-						 clinet/Service._pmod \
 						 services/fulltext._pike \
 						 services/graphic._pike \
 						 services/search._pike \
@@ -67,7 +65,7 @@ INPUT	               = client/client_base._pike \
 						 spm/test._pike \
 						 server/database._pike \
 	                     server/server._pike \
-						 server/Persistence._pike
+						 server/Persistence._pike \
 						 server/base/access._pike \
                          server/base/annotateable._pike \
                          server/base/client_base._pike \
@@ -191,7 +189,7 @@ INPUT	               = client/client_base._pike \
                          server/net/telnet._pike \
                          server/net/coal/binary._pike \
                          server/net/http._pike \
-                         server/net/webdav._pike \
+                         server/net/webdav.pike \
                          server/net/coal/login._pike \
                          server/net/coal/protocoll._pike \
 						 server/libraries/httplib._pmod \
@@ -217,6 +215,7 @@ INPUT	               = client/client_base._pike \
 						 tools/tab_completion.pmod \
 						 tools/upd-source._pike \
 						 tools/VisTeam._pike \
+						 
 FILE_PATTERNS          = *._pike *._pmod
 RECURSIVE              = YES
 EXCLUDE                = 
